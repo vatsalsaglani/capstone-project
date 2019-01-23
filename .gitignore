@@ -1,0 +1,9 @@
+# ignore folders
+/bin
+/include
+/lib
+/FASTAI-SGD-MNIST.ipynb
+/FASTAI-3-GROCERY.ipynb
+/data
+/FASTAI-1-RANDOM-FOREST.ipynb
+/Untitled.ipynb
